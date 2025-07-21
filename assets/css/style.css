@@ -7,3 +7,7 @@ h2 {
     color: red;
     font-size: larger;
 }
+
+p {
+    font-weight: bold;
+}
